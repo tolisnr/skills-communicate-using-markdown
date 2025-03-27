@@ -13,3 +13,9 @@ var myVar = "Hello, world!";
 public static void main(String[] args) {
   System.out.println("Hello World!");
 }
+```
+<hr>
+<p>Let's add some checklists!</p>
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
